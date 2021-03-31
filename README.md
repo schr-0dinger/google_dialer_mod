@@ -1,6 +1,6 @@
 #Google Dialer Mod - with Call Recording Enabled
 
-Notes:
+Notes
 
 This Magisk Module will enable Call Recording support in Custom ROMs with Google Dialer Framework Support
 
@@ -15,7 +15,7 @@ Instructions:
 2) Flash Magisk Module
 3) Reboot
 
-Latest(March 31st, 2021):
+Latest(March 31st, 2021)
 App: com.google.android.dialer
 Version:62.0.360486235 (Stable)
 Arch : arm64-v8a ; nodpi
