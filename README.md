@@ -1,4 +1,4 @@
-#Google Dialer Mod - with Call Recording Enabled
+Google Dialer Mod - with Call Recording Enabled
 
 Notes
 
