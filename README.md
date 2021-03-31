@@ -1,5 +1,7 @@
 #Google Dialer Mod - with Call Recording Enabled
 
+MAGISK MODULE:
+
 CALL RECORDING ENABLED
 
 App: com.google.android.dialer
